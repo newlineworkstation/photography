@@ -642,7 +642,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Places",
@@ -1214,7 +1214,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
@@ -1227,9 +1227,9 @@
             "postsNumber": 5,
             "socialDisqus": false,
             "shortName": "",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/16-2000x1333.jpg",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
             "overlay": true,
             "overlayColor": "#232323",
